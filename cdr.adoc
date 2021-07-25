@@ -5,6 +5,8 @@
 :source-language: console
 :pygments-style: emacs
 :pygments-linenums-mode: inline
+:note-caption: Примечание
+:important-caption: Важно
 
 Коротков А. В.
 
@@ -131,8 +133,8 @@ user : user cdwriter
 Записывать диски мы будем с помощью следующих пакетов программ:
 
 * http://www.fokus.gmd.de/research/cc/glone/employees/%0Ajoerg.schilling/private/cdrecord.html[cdrtools]
-* http://cdrdao.sourceforge.net/[Cdrdao]
-* http://www.xiph.org/paranoia/[CDParanoia]
+* http://cdrdao.sourceforge.net/[cdrdao]
+* http://www.xiph.org/paranoia/[cdparanoia]
 
 Все они являются свободными и кроссплатформенными.
 
@@ -300,6 +302,25 @@ Of Contents — таблица содержания), PMA (Program Memory Area)
 режимах дискеты — легко увидит здесь некую аналогию. Чистить CD-RW надо
 каждый раз, когда мы хотим записать на ранее использованный диск что-то
 новое.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Если вы по ошибке укажете в опции ``speed=`` скорость больше той, что
 поддерживается болванкой и/или приводом, то ничего страшного не произойдёт:
