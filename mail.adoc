@@ -1,14 +1,19 @@
 = Работа с электронной почтой в GNU/Linux
+Коротков А. В.
+2002
+// Metadata:
+:description: Работа с электронной почтой в GNU/Linux.
+:keywords: email, Linux
+// Settings:
 :experimental:
+:icons: font
 :lang: ru
 :source-highlighter: pygments
 :source-language: console
 :pygments-style: emacs
 :pygments-linenums-mode: inline
-
-Коротков А. В.
-
-2002
+:note-caption: Примечание
+:important-caption: Важно
 
 Когда мне в ящике письменного стола попадается на глаза пожелтевший от
 времени конверт — вспоминается, что письма когда-то были бумажными,
