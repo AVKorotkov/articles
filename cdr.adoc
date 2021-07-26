@@ -1,5 +1,12 @@
 = Дао CD-R
+Коротков А. В.
+2002
+// Metadata:
+:description: Запись компакт-дисков разных форматов в Linux.
+:keywords: CD-R, CD-RW, cdrtools, cdrecord, cdda2wav, devdump, isodump, isoinfo, isovfy, mkisofs, readcd, cdrdao, cdparanoia
+// Settings:
 :experimental:
+:icons: font
 :lang: ru
 :source-highlighter: pygments
 :source-language: console
@@ -7,10 +14,10 @@
 :pygments-linenums-mode: inline
 :note-caption: Примечание
 :important-caption: Важно
-
-Коротков А. В.
-
-2002
+// Refs:
+:url-cdrecord: http://www.fokus.gmd.de/research/cc/glone/employees/%0Ajoerg.schilling/private/cdrecord.html
+:url-cdrdao: http://cdrdao.sourceforge.net/
+:url-cdparanoia: http://www.xiph.org/paranoia/
 
 Рано или поздно у любого владельца домашнего компьютера появляется
 желание «сотворить» что-то своё — разместить домашнюю страничку
@@ -132,9 +139,9 @@ user : user cdwriter
 
 Записывать диски мы будем с помощью следующих пакетов программ:
 
-* http://www.fokus.gmd.de/research/cc/glone/employees/%0Ajoerg.schilling/private/cdrecord.html[cdrtools]
-* http://cdrdao.sourceforge.net/[cdrdao]
-* http://www.xiph.org/paranoia/[cdparanoia]
+* {url-cdrtools}[cdrtools]
+* {url-cdrdao}[cdrdao]
+* {url-cdparanoia}[cdparanoia]
 
 Все они являются свободными и кроссплатформенными.
 
