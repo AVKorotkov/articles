@@ -973,7 +973,7 @@ cddb_directory : ".cddb"
 |===
 ^| Особенности |X-CD-Roast |Gnome Toaster |CD Bake Oven |ECLiPt Roaster |gcombust
 |Интерфейс |GTK+ |Gnome/GTK+ |KDE/Qt |Gnome/Python |GTK+
-|drag'n'drop |⚪ |⚫ |⚫ |⚫ |⚫
+|drag'n'drop ^|⚪ ^|⚫ ^|⚫ ^|⚫ ^|⚫
 6+^|Поддержка программ:
 |cdrtools |⚫ |⚫ |⚫ |⚫ |⚫
 |cdrdao |⚪ |⚫ |⚪ |⚪ |⚪
