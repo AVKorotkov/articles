@@ -1,6 +1,6 @@
 = Дао CD-R
 Коротков А. В.
-2002
+2002-10-22
 // Metadata:
 :description: Запись компакт-дисков разных форматов в Linux.
 :keywords: CD-R, CD-RW, cdrtools, cdrecord, cdda2wav, devdump, isodump, isoinfo, isovfy, mkisofs, readcd, cdrdao, cdparanoia
@@ -139,7 +139,7 @@ user : user cdwriter
 
 Записывать диски мы будем с помощью следующих пакетов программ:
 
-* {url-cdrtools}[cdrtools]
+* {url-cdrecord}[cdrtools]
 * {url-cdrdao}[cdrdao]
 * {url-cdparanoia}[cdparanoia]
 
