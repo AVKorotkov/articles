@@ -1,37 +1,5 @@
-## Welcome to GitHub Pages
+# Статьи разных лет по информационным технологиям
 
-You can use the [editor on GitHub](https://github.com/AVKorotkov/articles/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Статьи о записи компакт-дисков и работе с почтой в GNU/Linux были мной написаны в 2002 г. для публикации в одном из российских компьютерных журналов, в одном из номеров которого в качестве темы номера шла подборка статей на соответствующую тему. Целевой аудиторией предполагались «продвинутые» пользователи домашних ПК, желавшие попробовать Linux в качестве альтернативной ОС. Поэтому во второй статье имеется упоминание работы другого автора. В итоге мои статьи не были опубликованы по некоторым причинам. Первая из них позднее «всплыла» на некоторых ресурсах, посвящённых Linux. Кто-то её разместил на одном из таких сайтов, а потом она разошлась по Сети, часто без оригинального названия и всегда без указания автора. За прошедшие годы очень многое изменилось в мире Linux, поэтому в данных статьях большая часть текста устарела. Возможно, я когда-нибудь возьмусь за их переделку, но в данный момент публикую их здесь лишь с незначительными правками. Статьи изначально были написаны в формате HTML, для размещения в данном репозитории я конвертировал их с помощью программы Pandoc в формат AsciiDoc и внёс некоторые правки в разметку полученных файлов.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AVKorotkov/articles/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Автор, 2021 г.
